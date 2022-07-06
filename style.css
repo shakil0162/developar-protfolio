@@ -1,0 +1,59 @@
+body{font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{font-size:50%px;}
+h2{font-size: 80%;}
+.orange-color{color:orange;}
+.section_display{display:flex;
+                 margin-bottom: 100px;
+                 background-image: url(images/top-banner.png);
+                 background-repeat: no-repeat;
+}
+.section_display-two{display: flex;
+                     margin-bottom: 100px;
+                     background-image: url(images/dream-bg.png);
+                     background-repeat: no-repeat;
+                     background-position: right;
+}
+.section-experience{padding-bottom: 100px;
+                    padding-left: 100px;
+                    padding-right: 50px;
+                    background-image: url(images/exp-bg.png);
+                    background-repeat: no-repeat;
+                    background-position: left;
+                    margin: 0%;
+        }
+.image{size: 2px;}
+.half-width{width:50%;
+            padding:5%;}
+.half-width img{
+    width:75%
+}
+.link_button{text-decoration: none;
+            background-image:linear-gradient(orange,tomato);
+            padding: 10px 20px;
+            border-radius: 5px;
+}
+.experience-div{display: flex;}
+.full-stake{font-size: large;
+            color: blueviolet;
+}
+.bageiner-developer{font-size: large;
+                    color: blueviolet;
+}
+.full-stake-table{border-left: 7px solid rgb(248, 59, 59);
+                box-shadow:10px 10px 40px gray ;
+                background-color:sandybrown;
+                margin-left: 5%;
+                margin-right: 5%;
+                border-radius: 15px
+            }
+.bagener-developer-table{box-shadow:10px 10px 40px gray;
+                        background-color:sandybrown;
+                        border-radius: 15px;
+                        border-left: 7px solid rgb(248, 59, 59);
+}
+.header-3{color: rgb(127, 150, 150);}
+.footer{color: rgb(38, 16, 16);
+        text-align: center;       
+}                       
